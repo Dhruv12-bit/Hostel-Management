@@ -1,5 +1,5 @@
 // Simple service worker for offline support
-const CACHE_NAME = 'samarth-pg-v3';
+const CACHE_NAME = 'hostel-app-v1';
 const ASSETS = [
   '/',
   '/index.html',
